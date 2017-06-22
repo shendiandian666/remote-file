@@ -1,1 +1,1 @@
-{"data":[{'name':'豆包金服','detail':'一万一月返300','status':'true','income':'193','money':'5000','days':'45','date':'2017-06-21'},{'name':'聚胜财富','detail':'一万一月返现180+66红包','status':'true','income':'342','money':'10000','days':'30','date':'2017-06-21'}]}
+{"data":[{"name":"豆包金服","detail":"一万一月返300","status":"true","income":"193","money":"5000","days":"45","date":"2017-06-21"},{"name":"聚胜财富","detail":"一万一月返现180+66红包","status":"true","income":"342","money":"10000","days":"30","date":"2017-06-21"}]}
