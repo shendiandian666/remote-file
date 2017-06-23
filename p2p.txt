@@ -1,4 +1,10 @@
-{"data":[
+{
+"swiper":[
+{"src":""},
+{"src":""},
+{"src":""}
+],
+"data":[
 {"number":"1","name":"念钱安","detail":"一万45天返255+20红包","status":"true","income":"169","money":"5000","days":"45","date":"2017-06-08","img":""},
 {"number":"2","name":"豆包金服","detail":"一万一月返300","status":"true","income":"193","money":"5000","days":"45","date":"2017-06-21","img":""},
 {"number":"3","name":"聚胜财富","detail":"一万一月返现180+66红包","status":"true","income":"342","money":"10000","days":"30","date":"2017-06-21","img":""},
