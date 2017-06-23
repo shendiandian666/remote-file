@@ -1,0 +1,11 @@
+{"title":
+{"income":"44.00","back":"125","money":"5000.00","star":"169","cycle":"45","start":"2017-06-08","end":"2018-06-08","remark":"一万45天返255+20红包"},
+"data":[
+{"type":"img","value":"http://img4q.duitang.com/uploads/item/201503/07/20150307174402_3PM4i.jpeg"},
+{"type":"txt","value":"1.点击去投资注册钱包,确定邀请码为qdc003"},
+{"type":"txt","value":"2.完成实名认证,绑定银行卡"},
+{"type":"img","value":"http://img4q.duitang.com/uploads/item/201503/07/20150307174402_3PM4i.jpeg"},
+{"type":"txt","value":"3.投资45天标,5000元起,不设上限,按2.55%比例返现"},
+{"type":"txt","value":"4.添加撸主微信1004050304领取返利,交单格式:手机号+投资金额"}
+]
+}
